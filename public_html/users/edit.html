@@ -1,0 +1,10 @@
+<h1>Editar Usuario # $user_id</h1>
+<form action="/users/user/save" method="post">
+	<input type="hidden" name="user_id" value="$user_id">
+	<label>Nombre:</label><br />
+	<input type="text" name="name" required value="$name"><br /><br/>
+	<label>Email:</label><br />
+	<input type="email" name="email" required value="$email"><br /><br/>
+	<input type="submit" value="Guardar" name="Guradar">
+	<input type="reset" value="Cancelar" mame="Cancelar">
+</form>
