@@ -7,9 +7,9 @@ class DBModel (object):
 
     def execute(self, query):
         DB_HOST = "localhost"
-        DB_USER = "root"
-        DB_PASS = "root"
-        BD_NAME = "suro_system"
+        DB_USER = ""
+        DB_PASS = ""
+        BD_NAME = ""
 
         parameters = [DB_HOST, DB_USER, DB_PASS, BD_NAME]
         link = MySQLdb.connect(*parameters)
