@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from modules.users.models import User
-from modules.users.views import UserView
+from modules.users.models.user import User
+from modules.users.views.user import UserView
 from core.Collector import Collector
 import urllib
 
