@@ -1,6 +1,10 @@
 python-mvc-lite
 ===============
 
+Autor: Leonardo López
+Twitter @HijinLópez
+
+
 El proyecto trata de lo siguiente:
 
     Crear aplicaciones web con arquitectura MVC
