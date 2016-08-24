@@ -2,7 +2,7 @@ python-mvc-lite
 ===============
 
 Autor: Leonardo López
-Twitter @HijinLópez
+Twitter @leo_coder
 
 
 El proyecto trata de lo siguiente:
